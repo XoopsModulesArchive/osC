@@ -1,0 +1,43 @@
+// UK lang variables
+
+tinyMCELang['lang_ibrowser_title'] = 'Sett inn / editer bilde';
+tinyMCELang['lang_ibrowser_desc'] = 'Sett inn / editer bilde';
+tinyMCELang['lang_ibrowser_library'] = 'Velg Album/Gruppe';
+tinyMCELang['lang_ibrowser_preview'] = 'Forhåndsvisning';
+tinyMCELang['lang_ibrowser_img_sel'] = 'Bilde valg';
+tinyMCELang['lang_ibrowser_img_info'] = 'Bilde informasjon';
+tinyMCELang['lang_ibrowser_img_upload'] = 'Bilde opplasting';
+tinyMCELang['lang_ibrowser_images'] = 'Velg bilde';
+tinyMCELang['lang_ibrowser_src'] = 'Kilde';
+tinyMCELang['lang_ibrowser_alt'] = 'Beskrivelse';
+tinyMCELang['lang_ibrowser_size'] = 'Størrelse';
+tinyMCELang['lang_ibrowser_align'] = 'Tekstflyt';
+tinyMCELang['lang_ibrowser_height'] = 'Høyde';
+tinyMCELang['lang_ibrowser_width'] = 'Lengde';
+tinyMCELang['lang_ibrowser_reset'] = 'Reset Dimensions';
+tinyMCELang['lang_ibrowser_border'] = 'Ramme';
+tinyMCELang['lang_ibrowser_hspace'] = 'Horis. mellomrom';
+tinyMCELang['lang_ibrowser_vspace'] = 'Vert. mellomrom';
+tinyMCELang['lang_ibrowser_select'] = 'Velg';
+tinyMCELang['lang_ibrowser_delete'] = 'Slett';
+tinyMCELang['lang_ibrowser_cancel'] = 'Avbryt';
+tinyMCELang['lang_ibrowser_uploadtxt'] = 'Fil';
+tinyMCELang['lang_ibrowser_uploadbt'] = 'Opplastede';
+tinyMCELang['lang_ibrowser_ver'] = 'Størrelse';
+tinyMCELang['lang_insert_image_ver_normal'] = 'Normal';
+tinyMCELang['lang_insert_image_ver_large'] = 'Stor';
+tinyMCELang['lang_insert_image_ver_thumb'] = 'Thumbnail';
+tinyMCELang['lang_insert_image_ver_original'] = 'Orginal';
+// error messages
+tinyMCELang['lang_ibrowser_error'] = 'Error';
+tinyMCELang['lang_ibrowser_errornoimg'] = 'Please select an image';
+tinyMCELang['lang_ibrowser_errornodir'] = 'Library doesn\'t physically exist';
+tinyMCELang['lang_ibrowser_errorupload'] = 'An error occured while handling the file upload.\nPlease try again later';
+tinyMCELang['lang_ibrowser_errortype'] = 'Wrong image file type';
+tinyMCELang['lang_ibrowser_errordelete'] = 'Delete failed';
+tinyMCELang['lang_ibrowser_confirmdelete'] = 'Click OK to delete image!';
+tinyMCELang['lang_ibrowser_error_width_nan'] = 'Width is not a number!';
+tinyMCELang['lang_ibrowser_error_height_nan'] = 'Height is not a number!';
+tinyMCELang['lang_ibrowser_error_border_nan'] = 'Border is not a number!';
+tinyMCELang['lang_ibrowser_error_hspace_nan'] = 'Horizontal space is not a number!';
+tinyMCELang['lang_ibrowser_error_vspace_nan'] = 'Vertical space is not a number!';	

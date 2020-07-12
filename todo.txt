@@ -1,0 +1,51 @@
+A list of future additions and funded projects.
+The following will be funded by the Fera Tech, Inc. site
+go to www.FeraTechInc.com for more details
+
+Shipping Module
+********************
+checkout_shipping.php line: 209
+Code needs to be redone to assign radio buttons to modules that have multiple shipping options.
+Also module does not allow to change shipping options.
+
+Language
+********************
+admin/index.php 
+Add dynamic language settings. Admin language will be core language then the site will be dynamically translated by babelfish.
+
+Alternatives are being looked into to have a Xoops module do the translation.
+
+TinyMCE Editor
+********************
+tiny_mce
+Have the editor use the "exact" parameters for each text area. So then each text box can have customized functions.
+Add a tinymce.php file with all TinyMCE configuration instead of using admin/application_top.php
+
+Product Image Manager
+********************
+admin/categories.php
+Have the ibrowser plugin select the image instead of the standard image upload.
+
+Print Invoice
+********************
+print_my_invoice.php
+Configure order history pages and checkout to be able to print the invoice.
+
+Create Order Comments
+********************
+admin/create_order.php
+The Admin comments in the Create Order file do not work.
+checkout_payment.php
+checkout_shipping.php
+Customer comments do not work.
+
+Cart Contents
+********************
+includes/classes/shopping_cart.php ln272
+The shopping cart is not able to read variable information and unable to switch between adding tax directly to items or during the checkout process.
+shopping_cart.php ln134
+tep_get_tax_rate() was removed to prevent tax from being added into cart contents
+
+Feeders for Froogle
+********************
+Setup automatic feeds for Froogle.

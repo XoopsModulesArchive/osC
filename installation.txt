@@ -1,0 +1,16 @@
+The osCommerce module for Xoops has been updated by Fera Tech, Inc.
+The module was updated with some bug fixes and additional features.
+
+Installation Instructions:
+
+1. FTP the module into your Xoops modules folder.
+2. Install the module using the Admin console.
+3. Set the following file/folders to be writeable (chmod 777):
+
+/{Xoops Install}/modules/osC/inclues/languages/mainlogo.php
+/{Xoops Install}/modules/osC/inclues/languages/mainpage.php
+/{Xoops Install}/modules/osC/admin/images/graphs
+/{Xoops Install}/modules/osC/admin/backups
+/{Xoops Install}/modules/osC/images
+/{Xoops Install}/modules/osC/tmp
+
